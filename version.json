@@ -1,15 +1,16 @@
 {
-  "version": "1.0.1",
-  "date": "2026-03-08",
+  "version": "37.0.0",
+  "date": "2026-03-14",
   "changelog": [
     "✅ Fitur /enc Anti-Bypass Berhasil Ditambahkan",
     "✅ Fitur /encstrict (Strict Mode) Level Hard Core",
     "✅ Sistem Auto-Update & Broadcast Changelog",
     "✅ Fix Bug 'page is not defined' pada Menu Geser",
     "✅ Penambahan Database Otomatis untuk Broadcast Grup",
-    "✅ Dll Masih Bnyak Bngt",
+    "✅ Fitur Bug New",
+    "✅ Dll Masih Bnyak Bngt Mls Ngetik",
     "⚡ Optimasi Kecepatan Respon Bot (Lebih Sat-set)"
   ],
-  "author": "Raffi Official",
+  "author": "@Raffioffci2",
   "status": "Stable"
 }
