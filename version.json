@@ -1,16 +1,5 @@
 {
-  "version": "38.0.0",
-  "date": "2026-03-14",
-  "changelog": [
-    "✅ Fitur /enc Anti-Bypass Berhasil Ditambahkan",
-    "✅ Fitur /encstrict (Strict Mode) Level Hard Core",
-    "✅ Sistem Auto-Update & Broadcast Changelog",
-    "✅ Fix Bug 'page is not defined' pada Menu Geser",
-    "✅ Penambahan Database Otomatis untuk Broadcast Grup",
-    "✅ Fitur Bug New",
-    "✅ Dll Masih Bnyak Bngt Mls Ngetik",
-    "⚡ Optimasi Kecepatan Respon Bot (Lebih Sat-set)"
-  ],
-  "author": "@Raffioffci2",
-  "status": "Stable"
+  "version": "37.0.0",
+  "release_date": "2026-03-14",
+  "changelog": "New Nebula Premium UI & iOS Style Dashboard Integration"
 }
